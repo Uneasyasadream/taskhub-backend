@@ -9,4 +9,5 @@ public class RegisterRequest {
     private String nickname;
     private String phone;
     private String email;
+    private String inviteCode;   // 新增邀请码字段
 }
