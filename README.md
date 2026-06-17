@@ -8,7 +8,7 @@ TaskHub AI 后端是一个基于 Spring Boot 3 + Spring Security + JWT 的企业
 ## 技术栈
 
 - Java 21
-- Spring Boot 3.2
+- Spring Boot 4.0.6
 - Spring Security 6
 - Spring Data JPA (Hibernate)
 - MySQL 8.0
